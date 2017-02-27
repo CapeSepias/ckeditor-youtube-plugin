@@ -1,0 +1,27 @@
+{
+  "name": "ckeditor-youtube-plugin",
+  "description": "Youtube plugin for CKEditor",
+  "version": "2.1.1",
+  "author": "fonini",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fonini/ckeditor-youtube-plugin"
+  },
+  "keywords": [
+    "CKEditor",
+    "youtube"
+  ],
+  "publishConfig": {
+    "registry": "https://maven.onehippo.com/npm-public/"
+  },
+  "files": [
+    "youtube/",
+    "LICENSE.md",
+    "README.md",
+    "bower.json",
+    "package.json"
+  ],
+  "engines": {
+    "node": "6"
+  }
+}
